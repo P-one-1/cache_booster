@@ -4,6 +4,3 @@
 
 # There was issue in seed.rb
 * uninitialized constant Faker::StarWars
-
-# Rubocop suggetion
-* Employee model's scope lamda syntax.
